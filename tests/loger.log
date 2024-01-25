@@ -1,0 +1,59 @@
+2024-01-20 13:41:19,619 : utilities.baseclass  : INFO  clicking the shop button in the homepage
+2024-01-20 13:41:23,033 : utilities.baseclass  : INFO  select the required(Nokia Edge) product in the list
+2024-01-20 13:41:23,733 : utilities.baseclass  : INFO  checkout the required producted selected or not
+2024-01-20 13:41:24,018 : utilities.baseclass  : INFO  entering country name in the edit box
+2024-01-20 13:41:29,472 : utilities.baseclass  : INFO  wait has been implemented until the link presence
+2024-01-20 13:43:50,121 : utilities.baseclass  : INFO  clicking the shop button in the homepage
+2024-01-20 13:43:53,584 : utilities.baseclass  : INFO  select the required(Nokia Edge) product in the list
+2024-01-20 13:43:54,158 : utilities.baseclass  : INFO  checkout the required producted selected or not
+2024-01-20 13:43:54,667 : utilities.baseclass  : INFO  entering country name in the edit box
+2024-01-20 13:44:00,053 : utilities.baseclass  : INFO  wait has been implemented until the link presence
+2024-01-20 13:44:03,837 : utilities.baseclass  : INFO  grasping the text after clicking the purchase button
+2024-01-20 13:45:45,911 : test_end_2_end  : INFO  clicking the shop button in the homepage
+2024-01-20 13:45:49,343 : test_end_2_end  : INFO  select the required(Nokia Edge) product in the list
+2024-01-20 13:45:49,851 : test_end_2_end  : INFO  checkout the required producted selected or not
+2024-01-20 13:45:50,124 : test_end_2_end  : INFO  entering country name in the edit box
+2024-01-20 13:45:55,551 : test_end_2_end  : INFO  wait has been implemented until the link presence
+2024-01-20 13:45:59,435 : test_end_2_end  : INFO  grasping the text after clicking the purchase button
+2024-01-20 13:48:27,366 : test_end_2_end  : INFO  clicking the shop button in the homepage
+2024-01-20 13:48:30,850 : test_end_2_end  : INFO  select the required(Nokia Edge) product in the list
+2024-01-20 13:48:31,340 : test_end_2_end  : INFO  checkout the required producted selected or not
+2024-01-20 13:48:31,832 : test_end_2_end  : INFO  entering country name in the edit box
+2024-01-20 13:48:36,759 : test_end_2_end  : INFO  wait has been implemented until the link presence
+2024-01-20 13:48:40,495 : test_end
+
+_2_end  : INFO  ï¿½
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-01-20 13:48:40,496 : test_end_2_end  : INFO  grasping the text after clicking the purchase button
+2024-01-23 10:04:12,389 : test_end_2_end  : INFO  clicking the shop button in the homepage
+2024-01-23 10:04:15,979 : test_end_2_end  : INFO  select the required(Nokia Edge) product in the list
+2024-01-23 10:04:16,522 : test_end_2_end  : INFO  checkout the required producted selected or not
+2024-01-23 10:04:17,264 : test_end_2_end  : INFO  entering country name in the edit box
+2024-01-23 10:04:22,600 : test_end_2_end  : INFO  wait has been implemented until the link presence
+2024-01-23 10:04:26,398 : test_end_2_end  : INFO  ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-01-23 10:04:26,399 : test_end_2_end  : INFO  grasping the text after clicking the purchase button
+2024-01-23 10:05:39,582 : test_end_2_end  : INFO  clicking the shop button in the homepage
+2024-01-23 10:05:43,008 : test_end_2_end  : INFO  select the required(Nokia Edge) product in the list
+2024-01-23 10:05:43,471 : test_end_2_end  : INFO  checkout the required producted selected or not
+2024-01-23 10:05:43,876 : test_end_2_end  : INFO  entering country name in the edit box
+2024-01-23 10:05:49,252 : test_end_2_end  : INFO  wait has been implemented until the link presence
+2024-01-23 10:05:53,091 : test_end_2_end  : INFO  ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-01-23 10:05:53,092 : test_end_2_end  : INFO  grasping the text after clicking the purchase button
+2024-01-23 10:14:25,188 : test_end_2_end  : INFO  clicking the shop button in the homepage
+2024-01-23 10:14:28,611 : test_end_2_end  : INFO  select the required(Nokia Edge) product in the list
+2024-01-23 10:14:29,206 : test_end_2_end  : INFO  checkout the required producted selected or not
+2024-01-23 10:14:29,553 : test_end_2_end  : INFO  entering country name in the edit box
+2024-01-23 10:14:34,589 : test_end_2_end  : INFO  wait has been implemented until the link presence
+2024-01-23 10:14:38,281 : test_end_2_end  : INFO  ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-01-23 10:14:38,282 : test_end_2_end  : INFO  grasping the text after clicking the purchase button
+2024-01-23 10:17:36,594 : test_end_2_end  : INFO  clicking the shop button in the homepage
+2024-01-23 10:17:40,024 : test_end_2_end  : INFO  select the required(Nokia Edge) product in the list
+2024-01-23 10:17:40,481 : test_end_2_end  : INFO  checkout the required producted selected or not
+2024-01-23 10:17:40,908 : test_end_2_end  : INFO  entering country name in the edit box
+2024-01-23 10:17:46,289 : test_end_2_end  : INFO  wait has been implemented until the link presence
+2024-01-23 10:17:50,076 : test_end_2_end  : INFO  ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-01-23 10:17:50,077 : test_end_2_end  : INFO  grasping the text after clicking the purchase button
